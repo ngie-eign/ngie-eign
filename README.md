@@ -5,3 +5,9 @@ I am in the process of migrating my personal projects over to [Codeberg](https:/
 I will continue to have a presence on GitHub for the time being, but it will not be the primary source of truth for [F]OSS development I do.
 
 The reasons for my migration to Codeberg align with other projects, such as [Gentoo Linux](https://www.gentoo.org/news/2026/02/16/codeberg.html) and [Zig](https://ziglang.org/news/migrating-from-github-to-codeberg/). [Janik von Rotz's blog post](https://janikvonrotz.ch/2025/08/20/migrate-from-github-to-codeberg/) is an excellent read that encapsulates my thought on the current state of GitHub.
+
+## How to: migrate from GitHub to Codeberg
+
+I made a simple python project for migrating GitHub repos to Codeberg called [Sidney](https://codeberg.org/ngie/sid). This project has not been posted to PyPI (I don't think I'll go through the effort of doing that, but plans can change..).
+
+All development is taking place on Codeberg of course.
