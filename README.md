@@ -8,12 +8,12 @@ The reasons for my migration to Codeberg align with other projects, such as [Gen
 
 ## Notes on Contributions/Communication
 
-* All commits I make to any repositories (GitHub or otherwise) after September 2026 should be GPG-signed.
+* All commits I make to any repositories (GitHub or otherwise) after September 2026 should be PGP-signed.
     * If they are not, question the submission.
     * I do this to help provide authenticity for any contributions made using my account.
-* All LLM-assisted commits will be annotated using `Assisted-by:`.
 * Any official communications I make to third-parties should be signed using my [current PGP key](https://keys.openpgp.org/search?q=yaneurabeya%40gmail.com).
     * Some emails may be sent unsigned due to the fact that many mail clients lack PGP integration, but in general, important communications will be PGP signed.
+* All LLM-assisted commits will be annotated using `Assisted-by:`.
 
 ## Solicitation Not Welcome
 
